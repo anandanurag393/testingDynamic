@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "55482522357",
+    "project_id": "kraken-9ee7d",
+    "storage_bucket": "kraken-9ee7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55482522357:android:4a245db8416d0859b403bc",
+        "android_client_info": {
+          "package_name": "my.first.kraken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55482522357-id6e23d17ugmeteje9lu4gff4vm67vjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7qPf8Rl7hF2bIkbszL8JbC3_r64e0p_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55482522357-id6e23d17ugmeteje9lu4gff4vm67vjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55482522357:android:0932f5b93328d60eb403bc",
+        "android_client_info": {
+          "package_name": "my.first.testingdynamic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55482522357-id6e23d17ugmeteje9lu4gff4vm67vjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7qPf8Rl7hF2bIkbszL8JbC3_r64e0p_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55482522357-id6e23d17ugmeteje9lu4gff4vm67vjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
